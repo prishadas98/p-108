@@ -1,0 +1,39 @@
+body{
+    font-family: 'Allison', cursive;
+    background-color: mistyrose;
+    text-align: center;
+}
+.header_div{
+    background: rgb(252, 247, 244);
+    color: red;
+}
+.header_div p{
+    font-family: 'Lobster', cursive;
+    color:silver;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Lobster', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    
+}
+#result_label   
+{
+    font-size:30px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:slategrey;
+    bottom: 0;
+    width:100%;
+    font-size: 30px;
+    background: snow;
+    line-height: 3;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
